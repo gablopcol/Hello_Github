@@ -1,0 +1,1 @@
+print("edito el fichero 1")
